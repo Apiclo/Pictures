@@ -8,4 +8,4 @@
 <li><a href="http://apiclo.vicp.io">壳域名</a></li>
 <li><a href="http://pipixia.apiclo.top">自己的域名</a></li>
 </ul>
-**毕竟是自己用的笔记本，随缘开机…**
+*毕竟是自己用的笔记本，随缘开机…*
